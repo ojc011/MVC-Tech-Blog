@@ -42,5 +42,8 @@ app.use(routes);
 
 // turns on the connection to the db and server
 sequelize.sync({ force: false }).then(() => {
-  app.listen(PORT, () => console.log("Now listening"));
-});
+  app.listen(PORT, "0.0.0.0", function() {
+console.log("Listening on Port 3000");
+})
+})
+
