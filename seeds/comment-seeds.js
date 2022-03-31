@@ -4,43 +4,43 @@ const commentData = [
   {
     user_id: 1,
     post_id: 5,
-    comment_text: "This is amazing!",
+    comment_text: "This is great!",
   },
   {
     user_id: 4,
     post_id: 4,
-    comment_text: "Wow, amazing work!",
+    comment_text: "amazing job!",
   },
   {
     user_id: 1,
     post_id: 4,
-    comment_text: "Awesome! kudos to everyone who have contributed",
+    comment_text: "Bravo to all",
   },
   {
     user_id: 3,
     post_id: 5,
-    comment_text: "We just reached a million subscribers! Fantastic!",
+    comment_text: "We just reached a million subscribers!",
   },
   {
     user_id: 3,
     post_id: 2,
-    comment_text: "This is great news!",
+    comment_text: "Splendid news!",
   },
   {
     user_id: 3,
     post_id: 4,
     comment_text:
-      "This is one of our biggest and the most awaited feature. Keep up the good work!",
+      "This feature will be huge!",
   },
   {
     user_id: 5,
     post_id: 3,
-    comment_text: "Very useful tool!",
+    comment_text: "Super useful!",
   },
   {
     user_id: 2,
     post_id: 1,
-    comment_text: "Nice tool!",
+    comment_text: "Great addition!",
   },
 ];
 
